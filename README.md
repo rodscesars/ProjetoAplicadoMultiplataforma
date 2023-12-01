@@ -9,6 +9,7 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-tecnologias">Implementação e Feedbacks</a> • 
  <a href="#-autor">Autor</a> • 
 </p>
 
@@ -129,6 +130,8 @@ $ npm run dev
 
 #### 🧭 Rodando a aplicação (MOBILE)
 
+Copie a URL gerada pelo ngrok salva anteriormente e substitua a URL que existe no arquivo tracker.js dentro da pasta API.
+
 ```bash
 
 # Acesse a pasta TransportUniforApp
@@ -182,7 +185,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🤳🏻 Implementação e Feedback
 
 A aplicação foi testada e apresentada para alunos da Unifor e de outras universidades, onde foi aplicado um questionário de satisfação, realizada entrevista e coletado os feedbacks.
-Sugiro o desenvolvimento de uma aplicação do usuário a parte que se conecte ao servidor, de acordo com os seguintes protótipos.
+Os resultados foram enviados para a avaliação do professor.
+Deixa a sugestão para desenvolvimento de uma aplicação para o usuário à parte, que se conecte ao servidor websocket recebendo a localização do motorista, de acordo com os seguintes protótipos.
 
 ![horarios](https://github.com/rodscesars/ProjetoAplicadoMultiplataforma/assets/67443869/2e346f30-1111-4833-a4cd-373af372afbb)
 
