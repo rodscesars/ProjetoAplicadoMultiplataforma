@@ -143,11 +143,9 @@ $ npm install --force
 # Execute a aplicação em modo de desenvolvimento
 $ npm start
 
-# O Expo CLI inicia um servidor de desenvolvimento que serve como um ponto de acesso para o seu aplicativo durante
-o desenvolvimento. A aplicação será aberta na porta:8081
+# O Expo CLI inicia um servidor de desenvolvimento que serve como um ponto de acesso para o seu aplicativo durante o desenvolvimento. A aplicação será aberta na porta:8081
 
-#Um QR code é gerado para que você possa escanear usando o aplicativo Expo Go no seu
-dispositivo físico. Também é possível rodar a aplicação em simuladores.
+# Um QR code é gerado para que você possa escanear usando o aplicativo Expo Go no seu dispositivo físico. Também é possível rodar a aplicação em simuladores.
 
 ```
 
