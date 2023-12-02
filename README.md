@@ -131,6 +131,8 @@ $ npm run dev
 #### 🧭 Rodando a aplicação (MOBILE)
 
 Copie a URL gerada pelo ngrok salva anteriormente e substitua a URL que existe no arquivo tracker.js dentro da pasta API.
+Existe uma funcionalidade de mockar a localização do dispositivo, simulando um deslocamento. Caso queira utilizar a localização real
+do dispositivo, comentar os linhas de código em que mockLocation está sendo utilizado.
 
 ```bash
 
