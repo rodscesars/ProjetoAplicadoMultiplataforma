@@ -77,9 +77,9 @@ Este projeto é divido em três partes:
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
 [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 Para testar em desenvolvimento é interessante instalar o aplicativo [ExpoGo](https://expo.dev/) no seu dispositivo
 
 É necessário instalar a ferramenta ngrok no terminal de comando. Uma forma simples,
@@ -186,7 +186,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 A aplicação foi testada e apresentada para alunos da Unifor e de outras universidades, onde foi aplicado um questionário de satisfação, realizada entrevista e coletado os feedbacks.
 Os resultados foram enviados para a avaliação do professor.
-Deixa a sugestão para desenvolvimento de uma aplicação para o usuário à parte, que se conecte ao servidor websocket recebendo a localização do motorista, de acordo com os seguintes protótipos.
+Deixo a sugestão para realizar o desenvolvimento de uma aplicação para o usuário à parte, que se conecte ao servidor websocket recebendo a localização do motorista, de acordo com os seguintes protótipos.
 
 ![horarios](https://github.com/rodscesars/ProjetoAplicadoMultiplataforma/assets/67443869/2e346f30-1111-4833-a4cd-373af372afbb)
 
